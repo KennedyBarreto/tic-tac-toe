@@ -1,11 +1,24 @@
+import { useState } from "react";
+
 export default function Player({ name, symbol }) {
+  const [isEditing, setIsEditing] = useState(false);
+
+  const handleClick = (e) => {
+    setIsEditing(!isEditing);
+  };
+
   return (
     <li>
       <span className="player">
-        <span className="player-name">{name}</span>
+        {isEditing ? (
+          <input type="text" />
+        ) : (
+          <span className="player-name">{name}</span>
+        )}
+
         <span className="player-symbol">{symbol}</span>
       </span>
-      <button>Edit</button>
+      <button onClick={handleClick}>Edit</button>
     </li>
   );
 }
