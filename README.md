@@ -7,13 +7,13 @@
  </h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/KennedyBarreto/tic-tac-toe?color=af0fff">
+ <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/KennedyBarreto/tic-tac-toe?color=af0fff">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/KennedyBarreto/tic-tac-toe?color=af0fff">
+ <!-- <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/KennedyBarreto/tic_tac_toe?color=af0fff"> -->
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/KennedyBarreto/tic-tac-toe?color=af0fff">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/KennedyBarreto/tic-tac-toe?color=af0fff">
+<!--  <img alt="Licença" src="https://img.shields.io/github/license/KennedyBarreto/tic-tac-toe?color=af0fff"> -->
 
 
 
